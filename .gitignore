@@ -22,4 +22,5 @@ jspm_packages/
 .vscode/
 
 nodemon.json
+uploads/
 
